@@ -3,7 +3,7 @@
 It provide the link for google form
 
 Google Form : 
-https://www.google.com/forms
+https://www.google.com/forms
 
 Highlight : 
 1. Create a Google Form
