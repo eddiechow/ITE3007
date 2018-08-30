@@ -21,4 +21,4 @@ Google search
 3. Command [(keywords) filetype: extension]
 4. Commands [inurl: / intitle:/intext:]
 5. Image Search 
-6. Google Calculator : https://support.google.com/websearch/answer/3284611?hl=en
+6. Google Calculator, unit converter & color codes : https://support.google.com/websearch/answer/3284611?hl=en
